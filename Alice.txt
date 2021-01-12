@@ -3,3 +3,4 @@ Some text in second line.
 Third line.
 Added some more text
 Added fifth line in master.
+This text as added on master branch via GitHub website.
