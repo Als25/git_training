@@ -4,3 +4,4 @@ Third line.
 Added some more text
 Added fifth line in master.
 This text as added on master branch via GitHub website.
+One more line added on master branch via GitHub website.
